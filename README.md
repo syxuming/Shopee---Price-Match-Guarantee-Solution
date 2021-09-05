@@ -23,9 +23,6 @@ Shopee是东南亚和台湾的领先电子商务平台，本次主办多模型�
   3. normalize -> 拼接图像和文本特征: 0.753
   4. 所有数据训练: 0.757
   5. union comb, img, txt matches & tune threshold: 0.776
-  6. INB & add diverse txt models: 0.784
-  7. use img, txt, comb emb at INB stage 1 & tune threshold jointly: 0.793
-
 
 
 ## 比赛trick

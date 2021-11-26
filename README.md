@@ -1,4 +1,5 @@
 # Shopee电商商品多模态检索竞赛 银牌4%
+https://www.kaggle.com/c/shopee-product-matching
 
 ## 比赛介绍
 Shopee是东南亚和台湾的领先电子商务平台，本次主办多模型商品匹配竞赛。使用深度学习和传统机器学习的结合分析图像和文本信息，以比较相似度，预测哪些商品是相同的产品。
@@ -57,3 +58,6 @@ https://www.kaggle.com/c/shopee-product-matching/data
 
 + 额外lib
 请讲lib文件夹下的zip文件都解压到train.ipynb中libdir下，以便运行。
+
+## TL;DR
+Shopee是东南亚和台湾的领先电子商务平台，本次主办多模型商品匹配竞赛。使用深度学习和传统机器学习的结合分析图像和文本信息，以比较相似度，预测哪些商品是相同的产品。我用CNN模型（主导）匹配商品图像，使用NFNet和Swin Transformer双模型 + ArcFace检测头对图片做检索匹配，用TF-IDF对商品标题做了做检索匹配，图像phash值，匹配完全相同的图像。使用简单的embedding concat融合方式输出最终匹配结果。

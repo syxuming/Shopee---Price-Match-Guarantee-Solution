@@ -1,4 +1,6 @@
 # Shopee电商商品多模态检索竞赛 银牌4%
+
+![header](https://user-images.githubusercontent.com/22366914/148638405-694e2d00-7f64-41f8-a837-186be374f8c9.png)
 https://www.kaggle.com/c/shopee-product-matching
 
 ## 比赛介绍
